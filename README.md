@@ -26,7 +26,7 @@ Download the database [here](https://www.kaggle.com/datasets/mann14/global-ai-an
 3️⃣ Make sure the data is clean for processing (search for blank, null, and error values) </br>
 4️⃣ Open PowerPivot and create relationship between ai_jobs.csv and skills_demand.csv based on job_id
 
-## ❓ Business Questions
+## ❓ Questions
 
 1. Which jobs pay more or need more skills for each country?
 2. Each country: median salary, top job type, and top skill throughout the year
@@ -65,3 +65,12 @@ Each country and each year has its own trending job type, skill that appear the 
 #### 💡 Insight
 It is more likely that each country has its own deciding factors on job type, skill requirements, and job title rather than following fixed or seasonal trends.
 
+## 🎓 What I Learned
+
+1. Using Power Pivot to create relationship between two tables and merge two tables
+2. Using DAX Measurement to create calculated formula and Power Pivot to create calculated column
+3. Utilizing pivot table and multiple formula (XLOOKUP, SORT, UNIQUE, etc) to create the dashboard
+
+## 🎯 Conclusions
+1. Each country has its own most needed skills and top paid-jobs throughout the year
+2. This dataset is too ideal and does not reflect real-world situation
