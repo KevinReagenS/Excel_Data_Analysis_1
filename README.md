@@ -43,6 +43,8 @@ Construct a pivot table with 3 columns
 <img src="gifs\question_1.gif"
 width = 100%>
 
+> ⓘ Click the GIF to play it
+
 #### 🗝️ Key Findings
 - All 6 countries have the same order of job titles of highest median to lowest median
 - All skills per job have similar value ranging between 4.4 and 4.5
