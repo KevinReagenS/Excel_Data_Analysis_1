@@ -29,7 +29,7 @@ Download the database [here](https://www.kaggle.com/datasets/mann14/global-ai-an
 ## ❓ Business Questions
 
 1. Which jobs pay more or need more skills for each country?
-2. 
+2. Each country: median salary, top job type, and top skill throughout the year
 
 ## 📊📉 Analysis Approach
 
@@ -52,3 +52,13 @@ width = 100%>
 #### 💡 Conclusion
 The data does not reflect the real-world situation because they are to "ideal" and possess similar value to each other.
 
+### 2. Mini Dashboard for Country and Year
+
+<img src="gifs\question_2.gif"
+width = 100%>
+
+#### 🗝️ Key Findings
+- Ongoing
+
+#### 💡 Conclusion
+Ongoing
