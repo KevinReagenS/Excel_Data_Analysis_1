@@ -28,6 +28,25 @@ Download the database [here](https://www.kaggle.com/datasets/mann14/global-ai-an
 
 ## ❓ Business Questions
 
-1. What are the top-paying jobs and skill demands for each country?
+1. Which jobs pay more or need more skills for each country?
+2. 
 
 ## 📊📉 Analysis Approach
+
+### 1. Job Title and Country Segmentation
+
+Construct a pivot table with 3 columns
+1. Job Title ➜ 6 job titles
+2. Median Salary per Job Title ➜ Created using DAX Measurement
+3. Skills per Job ➜ Created using DAX Measurement by dividing skills count and job count for each job
+
+<img src="gifs\question_1.gif"
+width = 100%>
+
+#### 🗝️ Key Findings
+- All 6 countries have the same order of job titles of highest median to lowest median
+- All skills per job have similar value ranging between 4.4 and 4.5
+
+#### 💡 Conclusion
+The data does not reflect the real-world situation because they are to "ideal" and possess similar value to each other.
+
