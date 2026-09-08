@@ -49,7 +49,7 @@ width = 100%>
 - All 6 countries have the same order of job titles of highest median to lowest median
 - All skills per job have similar value ranging between 4.4 and 4.5
 
-#### 💡 Conclusion
+#### 💡 Insight
 The data does not reflect the real-world situation because they are to "ideal" and possess similar value to each other.
 
 ### 2. Mini Dashboard for Country and Year
@@ -57,8 +57,11 @@ The data does not reflect the real-world situation because they are to "ideal" a
 <img src="gifs\question_2.gif"
 width = 100%>
 
-#### 🗝️ Key Findings
-- Ongoing
+> ⓘ Click the GIF to play it
 
-#### 💡 Conclusion
-Ongoing
+#### 🗝️ Key Finding
+Each country and each year has its own trending job type, skill that appear the most in job postings, and job title order.
+
+#### 💡 Insight
+It is more likely that each country has its own deciding factors on job type, skill requirements, and job title rather than following fixed or seasonal trends.
+
